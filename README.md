@@ -7,4 +7,18 @@ To sum everything up, 3 months later I have the world's most unreliable door loc
 
 Now what is an STM Microntroller and where can I get one?
 
-:)
+
+Here's some photos, enjoy :)
+
+ignore the yellow button on the camera breadboard
+
+
+![IMG-4077](https://user-images.githubusercontent.com/92798736/183235718-d14b7e8b-ad51-4996-87c2-bf61fb8a1954.jpg)
+
+Cam on
+![IMG-4076](https://user-images.githubusercontent.com/92798736/183235720-f368277b-f8e7-425d-9728-79036ea25ba4.jpg)
+
+Cam off
+![IMG-4074](https://user-images.githubusercontent.com/92798736/183235722-8c670d0a-a9e7-4233-9efb-a7bf059bfe8d.jpg)
+
+(some peripherals were added that are not included on the schematic, probably because at one point, I had no way to unlock the door from the inside nor turn on the circuit :( silly me!)
