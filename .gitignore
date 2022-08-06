@@ -1,0 +1,19 @@
+#DockerFiles
+
+#PrivateInfo
+dockerCam/*
+!dockerCam/socketServerTemplate.py
+!dockerCam/requirements.txt
+!dockerCam/Dockerfile
+#MCU
+
+MCUs/masterCam/masterCam.ino
+MCUs/masterCam/masterCamOld.ino
+MCUs/slaveController/slaveController.ino
+MCUs/slaveController/slaveControllerOld.ino
+
+#devModules
+DevModules/*
+
+# Mac/OSX
+.DS_Store
